@@ -7,7 +7,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [🚀 React Link](#react-link)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -63,9 +63,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 React Link <a name="react-link"></a>
 
-- [Live Demo Link](https://github.com/jorgegoco/hello-rails-back-end)
+- [React Link](https://github.com/jorgegoco/hello-react-front-end)
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
